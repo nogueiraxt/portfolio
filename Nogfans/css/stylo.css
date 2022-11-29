@@ -1,0 +1,109 @@
+/*TAGS E GERAL*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aqua;
+
+}
+
+a {
+
+    color: #06a829;
+    text-decoration: none;
+    padding: 5px;
+    margin: 1.5px;
+    
+
+}
+
+a:hover {
+    color: #f7b600;
+    text-decoration: underline;
+    padding: 5px;
+    margin: 1.5px;
+    background-color: antiquewhite;
+
+}
+
+
+/*IDs*/
+
+#principal {
+
+    width: 980px;
+    margin: 0px auto;
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+
+}
+
+#logo-topo {
+
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 290px;
+    float: left;
+    /*remover bordar depois*/
+
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+}
+
+#menu-topo {
+    margin: 10px;
+    padding: 5px;
+    text-align: right;
+    width: 620px;
+    float: right;
+
+
+    /*remover bordar depois*/
+
+    border-width: 1px;
+    border-color: red;
+    border-style: solid
+}
+
+#galeria-recentes {
+    margin: 10px;
+    padding: 5px;
+    width: 620px;
+    float: right;
+
+    /*remover bordar depois*/
+
+    border-width: 1px;
+    border-color: red;
+    border-style: solid
+}
+
+#categorias {
+    margin: 10px;
+    padding: 5px;
+    width: 290px;
+    float: left;
+
+    /*remover bordar depois*/
+
+    border-width: 1px;
+    border-color: red;
+    border-style: solid
+}
+
+/*CLASSES*/
+
+.postagem-recentes {
+
+    background-color: aqua;
+    width: 300px;
+    margin: 15px 0px;
+    padding: 5px;
+    float: right;
+}
